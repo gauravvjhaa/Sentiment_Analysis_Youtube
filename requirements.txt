@@ -8,7 +8,8 @@ wordcloud
 matplotlib
 seaborn
 nltk==3.8.0
-gensim
+scipy==1.7.3
 tqdm
 streamlit
-scipy
+gensim==4.1.2
+
