@@ -1,0 +1,13 @@
+emoji
+pandas
+numpy
+google-api-python-client
+vaderSentiment
+textblob
+wordcloud
+matplotlib
+seaborn
+nltk
+gensim
+tqdm
+streamlit
