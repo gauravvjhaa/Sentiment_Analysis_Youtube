@@ -25,7 +25,7 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
 
 # YouTube API key
-api_key = 'AIzaSyD8Yt4bQT44sI1Q-_VaBHXZ_hp6mLQZ44A'
+api_key = st.secrets["api_key"]
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 # Function to extract video ID from URL
